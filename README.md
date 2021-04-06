@@ -4,14 +4,14 @@
 
 ##### NOW
 
-- ✨ Recently co-created machine learning models to predict industrial machine malfunctions using .wav files (Check my repo)
+- ✨ Recently co-created machine learning models to predict industrial machine malfunctions using .wav files (Check my repo!)
 - 🔭 Currently learning about unsupervised learning, clustering and deployment.
 
 ##### BIO
 
 - 🏢 I'm currently under training and working at **Becode.org**
 - ⚙️ I use daily: `python`, `sci-kit learn`, `pandas`,`numpy`
-- 🌍 I'm mostly active within the **Python and Machine Learning**
+- 🌍 I'm mostly active within the **Python and Machine Learning Community**
 - 🌱 Learning all about **Data Science and Machine learning**
 - 💬 Ping me about **Data manipulation**, **ML model creation**, **python**, **ideas outside the box**, **design thinking**
 - 📫 Reach me: [rolin.vincent.16@gmail.com](rolin.vincent.16@gmail.com)
